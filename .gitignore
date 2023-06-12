@@ -22,8 +22,15 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+ ###
+/build/
+/build/classes/java/main/
+/gradle/
+/misc.xml/
+/.idea/
